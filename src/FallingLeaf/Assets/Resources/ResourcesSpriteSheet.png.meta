@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 632a38c66f19e6a4fb40eca060d7d9ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7664394036283863624
+    second: jyk_krila_verh
+  - first:
+      213: 9036374980622470451
+    second: jyk_krila_vniz
+  - first:
+      213: -8723856400174125432
+    second: kapla
+  - first:
+      213: 5523296685984298816
+    second: knp_osn
+  - first:
+      213: -1118165264754485443
+    second: knp_osn_ten
+  - first:
+      213: 6934154925517905568
+    second: menu
+  - first:
+      213: 5557056261130808330
+    second: palachka
+  - first:
+      213: 4904439665288990146
+    second: play
+  - first:
+      213: -6135087980750483045
+    second: shop
+  - first:
+      213: 1940311337616040596
+    second: VETKA
+  - first:
+      213: -4937799242134460900
+    second: coin
+  - first:
+      213: 4209691753025962703
+    second: kapla-1-1
+  - first:
+      213: 1608303335518529914
+    second: melodia_1
+  - first:
+      213: -3655277950495915127
+    second: oblaka_fon_1-1
+  - first:
+      213: 3317680174305225629
+    second: oblaka_fon_2-2
+  - first:
+      213: 6371523071253631973
+    second: oopslab_splash
+  - first:
+      213: 3281478431505955971
+    second: zvyk_1
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coin
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1300
+        width: 105
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4937799242134460900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jyk_krila_verh
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 954
+        width: 486
+        height: 384
+      alignment: 9
+      pivot: {x: 0.50102884, y: 0.4986979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7664394036283863624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jyk_krila_vniz
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1340
+        width: 515
+        height: 386
+      alignment: 9
+      pivot: {x: 0.49805826, y: 0.46891192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 9036374980622470451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kapla-1-1
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1065
+        width: 310
+        height: 481
+      alignment: 9
+      pivot: {x: 0.5645161, y: 0.4989605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4209691753025962703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knp_osn
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 827
+        width: 234
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5405983, y: 0.5042373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5523296685984298816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knp_osn_ten
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 804
+        width: 259
+        height: 259
+      alignment: 9
+      pivot: {x: 0.51158303, y: 0.49420848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1118165264754485443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: melodia_1
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1198
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1608303335518529914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 651
+        width: 172
+        height: 174
+      alignment: 9
+      pivot: {x: 0.4505814, y: 0.5229885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6934154925517905568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oblaka_fon_1-1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1026
+        width: 1031
+        height: 577
+      alignment: 9
+      pivot: {x: 0.5101843, y: 0.48873484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3655277950495915127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oblaka_fon_2-2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1605
+        width: 1072
+        height: 442
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49773756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3317680174305225629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oopslab_splash
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1728
+        width: 925
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5081081, y: 0.53605014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6371523071253631973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1407
+        width: 119
+        height: 139
+      alignment: 9
+      pivot: {x: 0.42016807, y: 0.528777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4904439665288990146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shop
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 513
+        width: 161
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5496894, y: 0.54044116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6135087980750483045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VETKA
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1548
+        width: 354
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1940311337616040596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zvyk_1
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1096
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3281478431505955971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
